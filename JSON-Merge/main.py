@@ -13,7 +13,6 @@ def read_files(inp_files,merged1,s):
             key=i
             obj=d[i]
             for o in obj:
-                #print(o)
                 str_size=len(json.dumps(o).encode('utf-8'))
                 output["employees"].append(o)
     print("Output:")
@@ -27,7 +26,7 @@ def read_files(inp_files,merged1,s):
             print("Merged data size larger than maximum size given.")
         else:
             json.dump(output, json_file,indent=5)
-            print("Merge successful..!!Saved in merge1.json")
+            print("Merge successful")
   
 def merge_files(fpath,inp,merge1,size):
     files=os.listdir(fpath)
