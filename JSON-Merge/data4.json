@@ -1,0 +1,12 @@
+{ "strikers":[
+{  "id":101 ,"name" : "The Alchemist" ,"Author" : "Paulo Coelho", "Genre": "Self Help","emailid": "paulo1899@gmail.com" },
+{  "id":102 ,"name" : "Brida" , "Author" : "Paulo Coelho", "Genre": "Fantasy","emailid": "paulo1899@gmail.com"},
+{  "id":103 ,"name": "The 5 AM Club", "Author": "Robin Sharma" , "Genre": "Self Help","emailid": "robin1211@gmail.com" },
+{  "id":104 ,"name": "If Tomorrow comes", "Author": "Sidney Sheldon", "Genre":"Thriller","emailid": "sheldon.sidney@gmail.com" },
+{  "id":105 ,"name": "It ends with us", "Author": "Colleen Hoover" , "Genre": "Love","emailid": "Collen@gmail.com"},
+{  "id":106 ,"name": "Angels & Demons", "Author": "Dan Brown" , "Genre": "Mystery","emailid": "dan@gmail.com"},
+{  "id":107 ,"name": "The Shining", "Author": "Stephen King" , "Genre": "Horror","emailid": "Stephen@gmail.com"},
+{  "id":108 ,"name": "The Secret", "Author": "Rhonda Byre" , "Genre": "Spirituality","emailid": "rhon@gmail.com"},
+{  "id":109 ,"name": "Harry Potter and the Half-Blood Prince", "Author": "J.K. Rowling" , "Genre": "Adventure","emailid": "row.jk@gmail.com"},
+{  "id":110 ,"name": "Big Magic", "Author": "Elizabeth Gilbert" , "Genre": "Motivation","emailid": "beth@gmail.com"}
+] }
